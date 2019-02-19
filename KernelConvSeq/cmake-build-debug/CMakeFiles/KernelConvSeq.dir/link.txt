@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/KernelConvSeq.dir/main.cpp.o CMakeFiles/KernelConvSeq.dir/PPM.cpp.o CMakeFiles/KernelConvSeq.dir/Image.cpp.o  -o KernelConvSeq 
