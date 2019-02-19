@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/salvatore/CLionProjects/KernelConvOpenMP/Image.h
+
+/home/salvatore/CLionProjects/KernelConvOpenMP/PPM.h
+Image.h
+/home/salvatore/CLionProjects/KernelConvOpenMP/Image.h
+
+/home/salvatore/CLionProjects/KernelConvOpenMP/Utils.h
+
+/home/salvatore/CLionProjects/KernelConvOpenMP/main.cpp
+iostream
+-
+omp.h
+-
+sys/time.h
+-
+Image.h
+/home/salvatore/CLionProjects/KernelConvOpenMP/Image.h
+PPM.h
+/home/salvatore/CLionProjects/KernelConvOpenMP/PPM.h
+Utils.h
+/home/salvatore/CLionProjects/KernelConvOpenMP/Utils.h
+

@@ -1,0 +1,3 @@
+/home/salvatore/CLionProjects/KernelConvOpenMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/salvatore/CLionProjects/KernelConvOpenMP/cmake-build-debug/CMakeFiles/KernelConvOpenMP.dir
+/home/salvatore/CLionProjects/KernelConvOpenMP/cmake-build-debug/CMakeFiles/edit_cache.dir
